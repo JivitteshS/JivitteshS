@@ -1,37 +1,42 @@
 # Jivittesh S
 
-**GenAI & Data Science Engineer** · 3.5 years building production-grade AI systems
+**GenAI & Data Science Engineer** · 3.5 years experience · Open to Work
 
-I design and ship LLM-powered applications at scale — from RAG pipelines and multi-agent orchestration to cloud-deployed inference APIs. Currently advancing toward Staff/Principal AI Engineer.
+I design and ship LLM-powered applications at scale — from RAG pipelines and multi-agent orchestration to cloud-deployed inference APIs. Currently building toward Staff/Principal AI Engineer.
 
 ---
 
 ## 🔧 Core Stack
 
-**LLM & Orchestration** — LangChain · LangGraph · RAG · Prompt Engineering  
-**Inference & Deployment** — AWS Bedrock · Azure OpenAI · vLLM · HuggingFace  
-**Backend** — FastAPI · Python · REST APIs  
-**Cloud** — AWS · Azure · Multi-cloud architecture  
+**LLM & Orchestration** — LangChain · LangGraph · RAG · Prompt Engineering · MCP  
+**Inference & Deployment** — AWS Bedrock · Azure OpenAI · Google Gemini · HuggingFace  
+**Backend** — FastAPI · Async Python · SQLAlchemy · REST APIs  
+**Vector DBs** — ChromaDB · AstraDB · AWS OpenSearch · Azure AI Search  
+**Cloud & DevOps** — AWS (Bedrock, ECS, Lambda, S3) · Azure · Docker · GitHub Actions  
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Featured Projects
 
-- **LLM Inference Benchmarking** — vLLM vs naive HuggingFace serving; throughput, latency, and GPU utilization analysis  
-- **Multi-Agent Systems** — Production LangGraph pipelines with tool use, memory, and state management  
-- **RAG Systems** — End-to-end retrieval-augmented generation with hybrid search and reranking  
+**GenAI MoM Extractor** — LangGraph agentic workflow that converts meeting transcripts into structured Minutes of Meeting with contextual Q&A and multi-turn reasoning
 
----
+**ATS Resume Optimization Agent** — Multi-agent LangGraph + Streamlit platform for end-to-end resume enhancement, JD keyword extraction, ATS scoring, and LaTeX resume generation
 
-## 📍 Focus Areas (2025–2026)
-```
-LLM Architecture → System Design (HLD/LLD) → GPU & Performance Engineering
-```
-
-Building toward deep expertise in LLM serving infrastructure and AI systems performance.
+**MCP SQL Assistant** — Natural language-to-SQL assistant using Model Context Protocol with a modular Python backend and Streamlit interface
 
 ---
 
-## 📫 Let's connect
+## 💼 Open to Work
 
-Open to Staff / Principal AI Engineer roles · [LinkedIn](#) · [Email](#)
+**Actively seeking** · AI Engineer · GenAI Engineer  
+📍 India · Open to remote  
+📬 jivittesh@gmail.com · [LinkedIn](https://linkedin.com/in/JivitteshS)
+
+---
+
+## 📊 Work Highlights
+
+- Built 3 GenAI PoCs using Azure OpenAI + LangChain for a large energy enterprise → transitioned one to funded production
+- Engineered GPT-4 Vision pipeline for engineering drawing data extraction with **90%+ accuracy**
+- Led Azure → AWS cloud migration for LLM orchestration, vector indexing, OCR, and storage layers
+- Designed Factory Pattern cloud-agnostic provider layer for dynamic object storage switching
