@@ -1,8 +1,6 @@
 # Jivittesh S
 
-**GenAI & Data Science Engineer** · 3.5 years experience · Open to Work
-
-I design and ship LLM-powered applications at scale — from RAG pipelines and multi-agent orchestration to cloud-deployed inference APIs.
+**AI Engineer** · 3.5 years experience · Open to Work
 
 ---
 
